@@ -1,2 +1,7 @@
 build
 .github
+submodules/gl3w
+submodules/glew-2.1.0
+submodules/glfw
+submodules/imgui
+.vscode/settings.json
